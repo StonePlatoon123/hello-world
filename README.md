@@ -1,2 +1,3 @@
 # hello-world
-This repository is for practising the GitHub Flow.
+I´m StonePlatoon123 or Stone for friends :-)
+I am from Sevilla (Spain)
